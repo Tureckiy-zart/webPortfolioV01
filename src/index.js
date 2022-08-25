@@ -10,13 +10,3 @@ root.render(
   </React.StrictMode>
 );
 
-// from commit 1
-
-// from commit 2
-
-// from commit 3
-
-// from commit 4
-
-// from commit 5
-
